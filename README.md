@@ -81,4 +81,14 @@ Seastone
 0.0.0.0/0 via 10.7.26.1
 ```
 ### CIDR
-Soon
+Iterasi 1  
+![cidr1](https://user-images.githubusercontent.com/55046884/143606790-d7a6c9df-cbc0-43ed-ac8d-e87c1cea00a6.png)  
+Iterasi 2  
+![cidr2](https://user-images.githubusercontent.com/55046884/143607049-3e2f76e2-733e-49db-aa87-15c7ee0b010b.png)  
+Iterasi 3  
+![cidr3](https://user-images.githubusercontent.com/55046884/143607195-08c75c45-d97f-490d-a328-4ca94fd0fd5e.png)
+Iterasi 4  
+![cidr4](https://user-images.githubusercontent.com/55046884/143607727-f0096421-95ef-4fce-820f-7bfd50941a83.png)  
+Iterasi 5  
+![cidr5](https://user-images.githubusercontent.com/55046884/143607898-a99e577c-2f0f-4078-a407-ca57ea090d5c.png)  
+Iterasi 6  
