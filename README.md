@@ -4,7 +4,6 @@ kelompok A16 : Deka Julian Arrizki
 
 ## **Konten**
 * [**Cara Pengerjaan**](#cara-pengerjaan)
-* [**Hasil Akhir**](#hasil-akhir)
 * [**Kendala**](#kendala)
 
 
@@ -95,6 +94,7 @@ Iterasi 6
 ![cidr6](https://user-images.githubusercontent.com/55046884/143608199-32c754de-a33b-4b1d-acb7-a9938352c2b8.png)  
 
 * Konfigurasi  
+
 Foosha
 ```
 route add -net 10.7.128.0 netmask 255.255.128.0 gw  10.7.192.2
@@ -114,3 +114,5 @@ Water7
 route add -net 10.7.128.0 netmask 255.255.192.0 gw 10.7.144.2
 ```
 
+## Kendala
+* Pada CIDR, jika server diikutkan dalam perhitungan server maka akan melebihi prefix ip. Oleh karena itu server tidak dimasukkan dalam perhitungan subnetting CIDR.
