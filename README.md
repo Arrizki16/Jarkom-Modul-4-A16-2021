@@ -92,3 +92,25 @@ Iterasi 4
 Iterasi 5  
 ![cidr5](https://user-images.githubusercontent.com/55046884/143607898-a99e577c-2f0f-4078-a407-ca57ea090d5c.png)  
 Iterasi 6  
+![cidr6](https://user-images.githubusercontent.com/55046884/143608199-32c754de-a33b-4b1d-acb7-a9938352c2b8.png)  
+
+* Konfigurasi  
+Foosha
+```
+route add -net 10.7.128.0 netmask 255.255.128.0 gw  10.7.192.2
+route add -net 10.7.0.0 netmask 255.255.128.0 gw 10.7.32.2
+```
+Guanhao
+```
+route add -net 10.7.0.0 netmask 255.255.240.0 gw 10.7.8.2
+route add -net 10.7.16.0 netmask 255.255.248.0 gw 10.7.16.3
+```
+Oimo
+```
+route add -net 10.7.0.0 netmask 255.255.252.0 gw 10.7.4.3
+```
+Water7
+```
+route add -net 10.7.128.0 netmask 255.255.192.0 gw 10.7.144.2
+```
+
